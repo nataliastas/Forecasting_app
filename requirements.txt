@@ -1,0 +1,13 @@
+dash==2.17.0
+typing
+plotly.express
+pandas
+sklearn
+numpy
+pickle
+os
+seaborn
+matplotlib
+statsmodels
+tensorflow
+gunicorn
